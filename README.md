@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, my name is Minh Pham aka Sparrowium. I like to play with Software and Firmware with a little bit of touch on Web!
 
-<!--
-**Sparrowium/Sparrowium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+· 🌊 I’m currently working on Software and Firmware that allows me to Configure and Customize Computer Peripherals!
+· 🌀 I’m currently learning: 
+           🐳 C, C++, Go, Rust, HTML & CSS & HTMX, Python, Zig, SQL
+           🐋 Turso, MySQL
+           🐬 Neovim, VSCode
+           🐟 Kubernetes, Docker
+           🐠 Qt, Django, Flask, PyTorch, Tauri, CUDA
+· 🐙 I'm currently using these OS: Pop!_OS, Ubuntu, and Fedora Linux
+· 🐢 I’m seeking help with Software Development, App Development, Firmware Development, and Web Development. 
+· ⚡ How to reach me: https://www.linkedin.com/in/minh-pham-37b47b28b/
 -->
