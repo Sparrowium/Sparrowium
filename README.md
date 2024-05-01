@@ -5,7 +5,7 @@
 
      - 🐳 C, C++, Go, Rust, HTML & CSS & HTMX, Python, Zig, SQL
 
-     - 🐋 Turso, MySQL
+     - 🐋 Turso, MySQL, Snowflake
   
      - 🐬 Neovim, VSCode
   
