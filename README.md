@@ -3,16 +3,16 @@
 - 🌊 I’m currently working on Software and Firmware that allows me to Configure and Customize Computer Peripherals!
 - 🌀 I’m currently learning:
 
-     - 🐳 C, C++, Go, Rust, HTML & CSS & HTMX, Python, Zig, SQL
+     - 🐳 C, C++, Go, Rust, HTML & CSS & HTMX, Python, Zig, SQL.
 
-     - 🐋 Turso, MySQL, Snowflake
+     - 🐋 Turso, MySQL, Snowflake.
   
-     - 🐬 Neovim, VSCode
+     - 🐬 Neovim, VSCode.
   
-     - 🐟 Kubernetes, Docker
+     - 🐟 Kubernetes, Docker.
   
-     - 🐠 Qt, Django, Flask, PyTorch, Tauri, ZLUDA
-- 🐙 I'm currently using these OS: Pop!_OS, Ubuntu, and Fedora Linux
+     - 🐠 Qt, Django, Flask, PyTorch, Tauri, ZLUDA.
+- 🐙 I'm currently learning and using these OS: Pop!_OS, Ubuntu, and Windows.
 - 🐢 I’m seeking help with Software Development, App Development, Firmware Development, and Web Development. 
 - ⚡ How to reach me: https://www.linkedin.com/in/minh-pham-37b47b28b/
 -->
