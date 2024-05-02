@@ -11,7 +11,7 @@
   
      - 🐟 Kubernetes, Docker
   
-     - 🐠 Qt, Django, Flask, PyTorch, Tauri, CUDA
+     - 🐠 Qt, Django, Flask, PyTorch, Tauri, ZLUDA
 - 🐙 I'm currently using these OS: Pop!_OS, Ubuntu, and Fedora Linux
 - 🐢 I’m seeking help with Software Development, App Development, Firmware Development, and Web Development. 
 - ⚡ How to reach me: https://www.linkedin.com/in/minh-pham-37b47b28b/
