@@ -12,6 +12,7 @@
      - 🐟 Kubernetes, Docker.
   
      - 🐠 PyQt, Django, Flask, PyTorch, Tauri, ZLUDA.
+       
 - 🐙 I'm currently learning and using these OS: Pop!_OS and Windows.
 - 🐢 I’m seeking help with Software Development, Application Development, Firmware Development, and Web Development. 
 - ⚡ How to reach me: https://www.linkedin.com/in/minh-pham-37b47b28b/
