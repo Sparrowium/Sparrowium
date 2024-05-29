@@ -1,4 +1,4 @@
-### Hi, my name is Minh Pham aka Sparrowium. I like to play with Software and Firmware with a little bit of touch on Web!
+### Hi, my name is Minh Pham aka Sparrowium. I like messing with Software and Firmware!
 
 - 🌊 I’m currently working on Software and Firmware that allows me to Configure and Customize Computer Peripherals!
 - 🌀 I’m currently learning:
