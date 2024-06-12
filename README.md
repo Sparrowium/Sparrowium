@@ -3,7 +3,7 @@
 - 🌊 I’m currently working on Software and Firmware that allows me to Configure and Customize Computer Peripherals!
 - 🌀 I’m currently learning:
 
-     - 🐳 C, C++, Go, Rust, HTML & CSS & HTMX, Python, Zig, SQL.
+     - 🐳 C, C++, Go, Rust, HTML & CSS, Python, Zig, SQL.
 
      - 🐋 Turso, MySQL, Snowflake.
   
