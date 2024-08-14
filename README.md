@@ -1,4 +1,4 @@
-### Hi, my name is Minh Pham aka Sparrowium. I like messing with Software and Firmware!
+### I'm Minh Pham aka Sparrowium. I like messing with Software and Firmware!
 
 - 🌊 I’m currently working on Software and Firmware that allows me to Configure and Customize Computer Peripherals!
 - 🌀 I’m currently learning:
@@ -11,10 +11,10 @@
   
      - 🐟 Kubernetes, Docker.
   
-     - 🐠 PyQt, Django, Flask, PyTorch, Tauri, ZLUDA.
+     - 🐠 PyQt, Django, Flask, PyTorch, Tauri.
        
-- 🐙 I'm currently learning and using these OS: Pop!_OS and Windows.
-- 🐢 I’m seeking help with Software Development, Application Development, Firmware Development, and Web Development. 
+- 🐙 I like playing around with Pop!_OS and Windows.
+- 🐢 I’m diving into Software Development, Application Development, Firmware Development, and Web Development. 
 - ⚡ How to reach me: https://www.linkedin.com/in/minh-pham-37b47b28b/
 -->
  
