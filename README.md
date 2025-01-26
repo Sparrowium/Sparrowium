@@ -21,7 +21,7 @@
  
      - Operating Systems, Embedded Systems.
 
-- 🐙 I'm using Linux mainly to learn these technologies and topics because it allows me to closely watch their interaction thourgh journalctl (so far).
+- 🐙 I'm using Linux mainly to learn these technologies and topics because it allows extensive customization and compatibility.
 - 🐢 I’m super interested in Software Development, Firmware Development, and Hardware Development. 
 - ⚡ How to reach me: https://www.linkedin.com/in/minh-pham-37b47b28b/
 -->
