@@ -1,28 +1,18 @@
-### I'm Minh Pham aka Sparrowium. I like messing with Software and Firmware!
+### I'm Minh Pham aka Sparrowium. I like messing with Peripherals and PCBs!
 
-- 🌊 I’m working on Software and Firmware that allows me to Configure and Customize Computer Peripherals!
-- 🐳 These are the current technologies that I'm learning and practicing:
+I’m working on Software and Firmware that allows me to fully pimp out my handmade keyboard or other peripherals out of a bunch of STM boards and Pis!
 
-     - Programming Languages: C, C++, Go, HTML & CSS, Python, Zig, SQL.
+These are the current technologies that I'm learning and practicing:
 
-     - Databases: PostgreSQL, MySQL.
-  
-     - Tools: Neovim, VSCode, Git.
-  
-     - Containers: Kubernetes, Docker.
-  
-     - Frameworks: PyQt, Django, FastAPI.
+- Programming Languages: C, C++, Go, HTML & CSS, Python, Zig, SQL.
+- Databases: PostgreSQL, MySQL.
+- Tools: Neovim, VSCode, Git.
+- Containers: Kubernetes, Docker.
+- Frameworks: PyQt, Django, FastAPI.
 
-- 🐟 These are the topics that I'm focusing on:
+I'm also doing Homelabs and Homeserver, mostly trying to create an environment where I can study both Hardware and Software.
+If you are interest in my profile reach me: 
 
-     - Computer Organization, Computer Architecture.
- 
-     - Data Structures, Algorithms.
- 
-     - Operating Systems, Embedded Systems.
+- [LinkedIn](https://www.linkedin.com/in/minh-pham-37b47b28b/)
 
-- 🐙 I'm using Linux mainly to learn these technologies and topics because it allows extensive customization and compatibility.
-- 🐢 I’m super interested in Linux Development, Firmware Development, and Hardware Development. 
-- ⚡ How to reach me: https://www.linkedin.com/in/minh-pham-37b47b28b/
--->
  
