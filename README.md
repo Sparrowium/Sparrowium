@@ -4,7 +4,7 @@ I’m working on Software and Firmware that allows me to fully pimp out my handm
 
 These are the current technologies that I'm learning and practicing:
 
-- Programming Languages: C, C++, Go, HTML & CSS, Python, Zig, SQL.
+- Languages: C, C++, Go, Python, Zig, SQL.
 - Databases: PostgreSQL, MySQL.
 - Tools: Neovim, VSCode, Git.
 - Containers: Kubernetes, Docker.
